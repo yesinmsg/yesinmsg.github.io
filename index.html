@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title> Sergey Y - Personal blog</title>
+		<title> RAT Project - Personal blog</title>
 		<meta charset="utf-8" />
 <meta name="description" content="">
 <meta name="HandheldFriendly" content="True">
