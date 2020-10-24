@@ -8,7 +8,7 @@ https://hls.goodgame.ru/hls/12949.m3u8
 http://hls.goodgame.ru/hls/178880.m3u8
 #EXTINF:0,Ultra HD Cinema
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
-#EXTINF:-1,ULTRA HD CINEMA 2
+#EXTINF:-1,Ultra HD Cinema
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
 #EXTINF:-1,Кинозал STR TV 
 https://hls.goodgame.ru/hls/130048.m3u8
