@@ -6,7 +6,9 @@ http://hls.goodgame.ru/hls/5346.m3u8
 https://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,Кинозал Film TV
 http://hls.goodgame.ru/hls/178880.m3u8
-#EXTINF:-1,Ultra HD Cinema FulHD
+#EXTINF:0,Ultra HD Cinema
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
+#EXTINF:-1,Ultra HD Cinema Android
 #EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
 #EXTINF:-1,Ultra HD Cinema
