@@ -1,5 +1,4 @@
 ﻿#EXTM3U
-
 #EXTINF:0,Ultra HD Cinema
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
 #EXTINF:0,Russian Extreme (HD REX)
@@ -40,47 +39,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,РЕН ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1,ТВ5
+#EXTINF:-1,TV5
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
-#EXTINF:-1,UATV HD
+#EXTINF:-1,UATV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,24 канал
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
 #EXTINF:-1,112 Украина HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1,5656 TV 1 Channel
-https://5656.ga/ch1.m3u8
-#EXTINF:-1,5656 TV 2 Channel
-https://5656.ga/ch2.m3u8
-#EXTINF:-1,5656 TV 3 Channel
-https://5656.ga/ch3.m3u8
-#EXTINF:-1,5656 TV 4 Channel
-https://5656.ga/ch4.m3u8
-#EXTINF:-1,5656 TV 5 Channel
-https://5656.ga/ch5.m3u8
-#EXTINF:-1,5656 TV 6 Channel
-https://5656.ga/ch6.m3u8
-#EXTINF:-1,5656 TV 7 Channel
-https://5656.ga/ch7.m3u8
-#EXTINF:-1,5656 TV 8 Channel
-https://5656.ga/ch8.m3u8
-#EXTINF:-1,5656 TV 9 Channel
-https://5656.ga/ch9.m3u8
-#EXTINF:-1,5656 TV 10 Channel
-https://5656.ga/ch10.m3u8
-#EXTINF:-1,5656 TV 11 Channel
-https://5656.ga/ch11.m3u8
-#EXTINF:-1,5656 TV 12 Channel
-https://5656.ga/ch12.m3u8
-#EXTINF:-1,5656 TV 13 Channel
-https://5656.ga/ch13.m3u8
-#EXTINF:-1,5656 TV 14 Channel
-https://5656.ga/ch14.m3u8
-#EXTINF:-1,5656 TV 15 Channel
-https://5656.ga/ch15.m3u8
-#EXTINF:-1,5656 TV 16 Channel
-https://5656.ga/ch16.m3u8
-#EXTINF:-1,5656 TV 17 Channel
-https://5656.ga/ch17.m3u8
-#EXTINF:-1,5656 TV 18 Channel
-https://5656.ga/ch18.m3u8
