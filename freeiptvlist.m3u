@@ -1,36 +1,32 @@
 ﻿#EXTM3U
+#EXTINF:-1,Кинозал Akudji HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Кинозал PznStreams 
+https://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,Кинозал Film TV
+http://hls.goodgame.ru/hls/178880.m3u8
 #EXTINF:0,Ultra HD Cinema
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
-#EXTINF:0,Russian Extreme (HD REX)
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
-#EXTINF:-1,Дом кинo
-http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
+#EXTINF:-1,ULTRA HD CINEMA 2
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+#EXTINF:-1,Кинозал STR TV 
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1,Кинозал КиноМания
+https://hls.goodgame.ru/hls/173945.m3u8
 #EXTINF:-1,FAN HD
 #EXTVLCOPT:http-user-agent=smartlabs
 https://hls.goodgame.ru/manifest/157239_master.m3u8
-#EXTINF:-1,Akudji HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,КИНО HD 2(МОЖи)
+#EXTINF:-1,Кинозал МОЖи
 http://hls.goodgame.ru/hls/32491.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
-#EXTINF:-1,PznStreams 
-https://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-1,КиноМания
-https://hls.goodgame.ru/hls/173945.m3u8
-#EXTINF:-1,ULTO
+#EXTINF:-1,Кинозал ULTO
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1,STR TV 
-https://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,Film TV
-http://hls.goodgame.ru/hls/178880.m3u8
-#EXTINF:-1,НТМ HD
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1,UFC TV
-http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UFCHD.m3u8
 #EXTINF:-1,Disney Channel
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,РЕН ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1,Пятница!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,СТС
@@ -41,8 +37,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,РЕН ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1,TV5
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
 #EXTINF:-1,UATV
@@ -51,3 +45,11 @@ http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
 #EXTINF:-1,112 Украина HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:0,Russian Extreme (HD REX)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
+#EXTINF:-1,UFC TV
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UFCHD.m3u8
+#EXTINF:-1,Дом кинo СССР
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
+#EXTINF:-1,НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
