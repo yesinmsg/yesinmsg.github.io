@@ -35,9 +35,6 @@ http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Фантастика Sci-Fi
 #EXTVLCOPT:http-user-agent=smartlabs
 https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1,Остросюжетное HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://188.35.9.26:5050/002
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:http-user-agent=smartlabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
