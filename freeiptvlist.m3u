@@ -1,12 +1,12 @@
 ﻿#EXTM3U
 #EXTINF:-1,Кинозал Akudji HD
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Кинозал PznStreams
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 https://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,Кинозал Film TV
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 http://hls.goodgame.ru/hls/178880.m3u8
 #EXTINF:0,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=smartlabs
@@ -15,16 +15,22 @@ http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
 #EXTVLCOPT:http-user-agent=smartlabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
 #EXTINF:-1,Кинозал STR TV 
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 https://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-1,Кинозал КиноМания
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 https://hls.goodgame.ru/hls/173945.m3u8
+#EXTINF:-1,Кино ТВ
+http://178.163.14.102:4022/udp/234.0.0.187:2000
+#EXTINF:-1,Fox Life
+http://77.243.112.149:8080/fox_life_hd/index.m3u8?token=413079063374
+#EXTINF:-1,HBO
+http://live.stargrouptv.com:5115/ivicakaticnet/5kMsbhW699/2059
 #EXTINF:-1,FAN HD
 #EXTVLCOPT:http-user-agent=smartlabs
 https://hls.goodgame.ru/manifest/157239_master.m3u8
 #EXTINF:-1,Кинозал МОЖи
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 http://hls.goodgame.ru/hls/32491.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
 #EXTINF:-1,Кинозал ULTO
 #EXTVLCOPT:http-user-agent=smartlabs
