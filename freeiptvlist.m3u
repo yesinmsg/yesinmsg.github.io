@@ -1,9 +1,9 @@
 ﻿#EXTM3U
 #EXTINF:-1,Кинозал Akudji HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Кинозал PznStreams
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,Кинозал Film TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
