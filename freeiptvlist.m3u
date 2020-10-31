@@ -109,7 +109,7 @@ http://134.249.161.209:8080/hls/index.m3u8
 #EXTINF:-1,Кинозал Film TV
 #EXTGRP:Only KODI
 #EXTVLCOPT:http-user-agent=SmartLabs
-rtmp://134.249.161.209/live/test
+http://filmtv.net.ua/duwn/TEST123.m3u
 #EXTINF:-1,Кинозал STR TV 
 #EXTGRP:Only KODI
 #EXTVLCOPT:http-user-agent=SmartLabs
