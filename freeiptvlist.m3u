@@ -59,7 +59,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,TV5
-#EXTGRP:News Ukraine
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
 #EXTINF:-1,UATV
