@@ -54,7 +54,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,РЕН ТВ
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://37.235.195.95:81/udp/225.50.66.211:1234
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Пятница!
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
