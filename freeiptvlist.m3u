@@ -108,14 +108,6 @@ http://hls.goodgame.ru/hls/178880.m3u8
 #EXTGRP:Only KODI
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,Кинозал КиноМания
-#EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://hls.goodgame.ru/hls/173945.m3u8
-#EXTINF:-1,Кинозал МОЖи
-#EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://hls.goodgame.ru/hls/32491.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
 #EXTINF:-1,FAN HD
 #EXTGRP:Only KODI
 #EXTVLCOPT:http-user-agent=SmartLabs
