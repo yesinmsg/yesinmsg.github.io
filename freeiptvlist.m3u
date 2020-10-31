@@ -124,9 +124,9 @@ https://hls.goodgame.ru/hls/130048.m3u8
 https://hls.goodgame.ru/hls/173945.m3u8
 #EXTINF:-1,Кинозал МОЖи
 #EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartSDK
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://hls.goodgame.ru/hls/32491.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
 #EXTINF:-1,FAN HD
 #EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartSDK
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://hls.goodgame.ru/manifest/157239_master.m3u8
