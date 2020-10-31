@@ -40,9 +40,6 @@ https://hls.goodgame.ru/manifest/157239_master.m3u8
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1,SONY SCI-FI
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://85.15.81.66:4022/udp/238.0.2.122:1234
 #EXTINF:-1,Кино UHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://188.35.9.18:16050/udp/238.0.16.1:69000
@@ -55,9 +52,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version
 #EXTINF:-1,2x2
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,РЕН ТВ HD
+#EXTINF:-1,РЕН ТВ
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+http://176.215.68.60:81/udp/235.10.10.220:1234
 #EXTINF:-1,Пятница!
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
