@@ -1,128 +1,128 @@
 ﻿#EXTM3U
 #EXTINF:-1,Ultra HD Cinema
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:-1,TOP: CINEMA HD
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://topchantv.net:3456/ProMo*911TV*/ProMo*911TV*/1611
 #EXTINF:-1,TV 1000 HD
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://195.191.208.78:8080/tv1000hd/index.m3u8
 #EXTINF:-1,TV 1000 Action HD
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000ACTIONHD.m3u8
 #EXTINF:-1,Кино ТВ
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://77.243.112.149:8080/kino-tv/index.m3u8?token=413079063374
 #EXTINF:-1,Paramount Comedy
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://77.243.112.149:8080/paramount-comedy/index.m3u8?token=413079063374
 #EXTINF:-1,Fox Life
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://77.243.112.149:8080/fox_life_hd/index.m3u8?token=413079063374
 #EXTINF:-1,Остросюжетное HD
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://188.35.9.26:5050/002
 #EXTINF:-1,Премиальное HD
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://188.35.9.26:5050/001
 #EXTINF:-1,НСТ
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://176.51.197.29:1234/udp/233.7.70.39:5000
 #EXTINF:-1,Spike
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://77.73.68.204:8080/eden/123456/34395
 #EXTINF:-1,SONY SCI-FI
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://85.15.81.66:4022/udp/238.0.2.122:1234
 #EXTINF:-1,Кинозал ULTO
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1,Кино UHD
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Фантастика Sci-Fi
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,Disney Channel
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,2x2
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,РЕН ТВ HD
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1,Пятница!
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,СТС
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТВ-3
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Супер
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Че
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,TV5
 #EXTGRP:News Ukraine
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
 #EXTINF:-1,UATV
 #EXTGRP:News Ukraine
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,24 канал
 #EXTGRP:News Ukraine
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
 #EXTINF:-1,112 Украина HD
 #EXTGRP:News Ukraine
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1,Дом кинo
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 #EXTINF:-1,НТМ HD
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:0,Russian Extreme (HD REX)
 #EXTGRP:4K
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
 #EXTINF:0,LOVE NATURE
 #EXTGRP:4K
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
 #EXTINF:-1,Кинозал Akudji HD
 #EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Кинозал PznStreams
 #EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 https://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,Кинозал Film TV
 #EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://hls.goodgame.ru/hls/178880.m3u8
 #EXTINF:-1,Кинозал STR TV 
 #EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 https://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-1,Кинозал КиноМания
 #EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 https://hls.goodgame.ru/hls/173945.m3u8
 #EXTINF:-1,Кинозал МОЖи
 #EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://hls.goodgame.ru/hls/32491.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
 #EXTINF:-1,FAN HD
 #EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 https://hls.goodgame.ru/manifest/157239_master.m3u8
