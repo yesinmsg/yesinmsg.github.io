@@ -1,19 +1,16 @@
 ﻿#EXTM3U
-#EXTINF:-1,РЕН ТВ HD
+#EXTINF:-1,TV 1000 Action HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000ACTIONHD.m3u8
+#EXTINF:-1,TV 1000 HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://195.191.208.78:8080/tv1000hd/index.m3u8
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:-1,TOP: CINEMA HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://topchantv.net:3456/ProMo*911TV*/ProMo*911TV*/1611
-#EXTINF:-1,TV 1000 HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://195.191.208.78:8080/tv1000hd/index.m3u8
-#EXTINF:-1,TV 1000 Action HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000ACTIONHD.m3u8
 #EXTINF:-1,Кино ТВ
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://77.243.112.149:8080/kino-tv/index.m3u8?token=413079063374
@@ -43,6 +40,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version
 #EXTINF:-1,2x2
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,РЕН ТВ HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1,Пятница!
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
