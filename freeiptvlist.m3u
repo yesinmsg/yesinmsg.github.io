@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:-1,TOP: CINEMA HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://topchantv.net:3456/ProMo*911TV*/ProMo*911TV*/1611
