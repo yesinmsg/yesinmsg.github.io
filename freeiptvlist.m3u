@@ -83,7 +83,6 @@ http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
 #EXTINF:-1,Кинозал Akudji HD
-#EXTGRP:Only KODI
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Кинозал PznStreams
