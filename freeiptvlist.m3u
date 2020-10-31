@@ -105,11 +105,11 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Кинозал PznStreams
 #EXTGRP:Only KODI
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://134.249.161.209:8080/hls/index.m3u8
+https://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,Кинозал Film TV
 #EXTGRP:Only KODI
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://filmtv.net.ua/duwn/TEST123.m3u
+http://134.249.161.209:8080/hls/index.m3u8
 #EXTINF:-1,Кинозал STR TV 
 #EXTGRP:Only KODI
 #EXTVLCOPT:http-user-agent=SmartLabs
@@ -126,3 +126,7 @@ http://hls.goodgame.ru/hls/32491.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
 #EXTGRP:Only KODI
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://hls.goodgame.ru/manifest/157239_master.m3u8
+#EXTINF:-1,Кинозал Sever_Tv
+#EXTGRP:Only KODI
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://195.9.195.3:8080/hls/146065.m3u8
