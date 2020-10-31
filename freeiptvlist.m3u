@@ -32,6 +32,9 @@ http://hls.goodgame.ru/hls/178880.m3u8
 #EXTINF:-1,Кинозал STR TV 
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1,Кинозал Sever TV
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://195.9.195.3:8080/hls/146065.m3u8
 #EXTINF:-1,FAN HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://hls.goodgame.ru/manifest/157239_master.m3u8
