@@ -2,6 +2,15 @@
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+#EXTINF:-1,TOP: CINEMA HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://topchantv.net:3456/ProMo*911TV*/ProMo*911TV*/1611
+#EXTINF:-1,TV 1000 HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://195.191.208.78:8080/tv1000hd/index.m3u8
+#EXTINF:-1,TV 1000 Action HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000ACTIONHD.m3u8
 #EXTINF:-1,Кино ТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://77.243.112.149:8080/kino-tv/index.m3u8?token=413079063374
@@ -11,6 +20,12 @@ http://77.243.112.149:8080/paramount-comedy/index.m3u8?token=413079063374
 #EXTINF:-1,Fox Life
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://77.243.112.149:8080/fox_life_hd/index.m3u8?token=413079063374
+#EXTINF:-1,Остросюжетное HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://188.35.9.26:5050/002
+#EXTINF:-1,Премиальное HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://188.35.9.26:5050/001
 #EXTINF:-1,НСТ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://176.51.197.29:1234/udp/233.7.70.39:5000
