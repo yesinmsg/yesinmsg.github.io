@@ -20,6 +20,24 @@ http://77.243.112.149:8080/paramount-comedy/index.m3u8?token=413079063374
 #EXTINF:-1,Fox Life
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://77.243.112.149:8080/fox_life_hd/index.m3u8?token=413079063374
+#EXTINF:-1,Кинозал Akudji HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Кинозал PznStreams
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,Кинозал Film TV
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://hls.goodgame.ru/hls/178880.m3u8
+#EXTINF:-1,STR TV 
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1,FAN HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://hls.goodgame.ru/manifest/157239_master.m3u8
+#EXTINF:-1,Кинозал ULTO
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,SONY SCI-FI
@@ -31,9 +49,6 @@ http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Фантастика Sci-Fi
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1,Кинозал ULTO
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
@@ -82,22 +97,3 @@ http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
 #EXTINF:0,LOVE NATURE
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
-#EXTINF:-1,Кинозал Akudji HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,Кинозал PznStreams
-#EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-1,Кинозал Film TV
-#EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://hls.goodgame.ru/hls/178880.m3u8
-#EXTINF:-1,STR TV 
-#EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,FAN HD
-#EXTGRP:Only KODI
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://hls.goodgame.ru/manifest/157239_master.m3u8
