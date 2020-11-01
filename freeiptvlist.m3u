@@ -41,9 +41,6 @@ https://hls.goodgame.ru/manifest/157239_master.m3u8
 #EXTINF:-1,Кинозал ULTO
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1,Ужастик
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,Кино UHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://188.35.9.18:16050/udp/238.0.16.1:69000
