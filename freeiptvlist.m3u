@@ -41,9 +41,6 @@ https://hls.goodgame.ru/manifest/157239_master.m3u8
 #EXTINF:-1,Кинозал ULTO
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1,Кино UHD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Фантастика Sci-Fi
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://autopilot.catcast.tv/content/38801/index.m3u8
@@ -95,6 +92,9 @@ http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 #EXTINF:-1,НТМ HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1,Кино UHD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTINF:0,Russian Extreme (HD REX)
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
