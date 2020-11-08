@@ -25,16 +25,13 @@ http://77.243.112.149:8080/fox_life_hd/index.m3u8?token=413079063374
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Кинозал PznStreams
 #EXTVLCOPT:http-user-agent=SmartLabs
-https://hls.goodgame.ru/hls/12949.m3u8
+https://hls.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1,Кинозал Film TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.goodgame.ru/hls/178880.m3u8
 #EXTINF:-1,Кинозал KVN-HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.goodgame.ru/hls/180189.m3u8
-#EXTINF:-1,Кинозал AV Movie
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://hls.goodgame.ru/hls/106103.m3u8
 #EXTINF:-1,FAN HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://hls.goodgame.ru/manifest/157239_master.m3u8
