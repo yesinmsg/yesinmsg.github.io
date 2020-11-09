@@ -8,9 +8,12 @@ http://195.191.208.78:8080/tv1000hd/index.m3u8
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1,TOP: CINEMA HD
+#EXTINF:-1,Мужское кино HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://topchantv.net:3456/ProMo*911TV*/ProMo*911TV*/1611
+http://188.35.9.11:2022
+#EXTINF:-1,KinoBroadcast
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://v1.catcast.me/contentv2/35525/index.m3u8
 #EXTINF:-1,Кино ТВ
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://77.243.112.149:8080/kino-tv/index.m3u8?token=413079063374
