@@ -1,7 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1,TV 1000 Action HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000ACTIONHD.m3u8
 #EXTINF:-1,TV 1000 HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://195.191.208.78:8080/tv1000hd/index.m3u8
