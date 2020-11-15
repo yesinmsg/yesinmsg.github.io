@@ -35,9 +35,15 @@ https://hls.goodgame.ru/manifest/157239_master.m3u8
 #EXTINF:-1,Кинозал ULTO
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1,Фантастика Sci-Fi
+#EXTINF:-1,VIP Megahit
 #EXTVLCOPT:http-user-agent=SmartLabs
-https://autopilot.catcast.tv/content/38801/index.m3u8
+http://mnogotv.club:8084/tv/ch123/playlist.m3u8
+#EXTINF:-1,VIP Premiere
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://mnogotv.club:8084/tv/ch124/playlist.m3u8
+#EXTINF:-1,VIP Serial
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://mnogotv.club:8084/tv/ch962/playlist.m3u8
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
