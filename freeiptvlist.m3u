@@ -35,12 +35,6 @@ http://hls.goodgame.ru/hls/180189.m3u8
 #EXTINF:-1,FAN HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://hls.goodgame.ru/manifest/157239_master.m3u8
-#EXTINF:-1,Иллюзион +
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/bw2000000/variant.m3u8
-#EXTINF:-1,TV XXI
-#EXTGRP:Кино
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/variant.m3u8
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
