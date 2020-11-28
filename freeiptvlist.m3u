@@ -43,25 +43,25 @@ http://zigfreed.ru:8080/Z!/index.m3u8
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,VIP Cinema HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-https://cdnnow.goodgame.ru/hls/153640.m3u8
+https://hls.goodgame.ru/hls/153640.m3u8
 #EXTINF:-1,PZN FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
-https://cdnnow.goodgame.ru/hls/180960.m3u8
+https://hls.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1,FANTASTIKA HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-https://cdnnow.goodgame.ru/hls/181070.m3u8
+https://hls.goodgame.ru/hls/181070.m3u8
 #EXTINF:-1,Filedron FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
-https://cdnnow.goodgame.ru/hls/180204.m3u8
+https://hls.goodgame.ru/hls/180204.m3u8
 #EXTINF:-1,SC TV FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
-https://cdnnow.goodgame.ru/hls/61358.m3u8
+https://hls.goodgame.ru/hls/61358.m3u8
 #EXTINF:-1,Cinema HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-https://cdnnow.goodgame.ru/hls/178574.m3u8
+https://hls.goodgame.ru/hls/178574.m3u8
 #EXTINF:-1,Epic Seria HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-https://cdnnow.goodgame.ru/hls/170475.m3u8
+https://hls.goodgame.ru/hls/170475.m3u8
 #EXTINF:-1,E-Serial
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://v2.catcast.tv/content2/36168/index.m3u8
