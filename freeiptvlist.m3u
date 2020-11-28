@@ -1,4 +1,13 @@
 ﻿#EXTM3U
+ #EXTINF:-1,TV 1000 HD
+#EXTGRP:Кино
+http://195.191.208.78:8080/tv1000hd/index.m3u8
+#EXTINF:-1,TV 1000 Action FHD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://dmitry-tv.my1.ru/his/zabava/04/CH_TV1000ACTIONHD.m3u8?version=2&offset=-64800|user-agent=mx
+#EXTINF:-1,TV 1000 World Kino
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
@@ -8,18 +17,54 @@ http://v1.catcast.me/contentv2/35525/index.m3u8
 #EXTINF:-1,TOP: CINEMA HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://topchantv.net:3456/911promoapk/XZ25xTDAry/1611
-#EXTINF:-1,Paramount Comedy
+#EXTINF:-1,Комедийное FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://77.243.112.149:8080/paramount-comedy/index.m3u8?token=413079063374
-#EXTINF:-1,Fox Life
+http://51.68.141.106:8081/tv/komediinoe/chunks.m3u8
+#EXTINF:-1,Flux HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://77.243.112.149:8080/fox_life_hd/index.m3u8?token=413079063374
+http://str3.101film.org/ch366/index.m3u8?token=T2xlZ01pc2hpbnx8ZG1Gc1pXNTBhVzVoTVRrMU1RPT0=
+#EXTINF:-1,Страшное FHD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://str2.101film.org/ch234/index.m3u8?token=T2xlZ01pc2hpbnx8ZG1Gc1pXNTBhVzVoTVRrMU1RPT0=
+#EXTINF:-1,Amedia Hit HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1,Кино ТВ
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://192.162.212.48/kino-tv/mpegts
+#EXTINF:-1,Kino 24
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,Zigfreed
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://zigfreed.ru:8080/Z!/index.m3u8
 #EXTINF:-1,Кинозал Akudji HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,Кинозал PznStreams
+#EXTINF:-1,VIP Cinema HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-https://hls.goodgame.ru/hls/180960.m3u8
+https://cdnnow.goodgame.ru/hls/153640.m3u8
+#EXTINF:-1,PZN FHD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://cdnnow.goodgame.ru/hls/180960.m3u8
+#EXTINF:-1,FANTASTIKA HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://cdnnow.goodgame.ru/hls/181070.m3u8
+#EXTINF:-1,Filedron FHD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://cdnnow.goodgame.ru/hls/180204.m3u8
+#EXTINF:-1,SC TV FHD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://cdnnow.goodgame.ru/hls/61358.m3u8
+#EXTINF:-1,Cinema HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://cdnnow.goodgame.ru/hls/178574.m3u8
+#EXTINF:-1,Epic Seria HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://cdnnow.goodgame.ru/hls/170475.m3u8
+#EXTINF:-1,E-Serial
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://v2.catcast.tv/content2/36168/index.m3u8
 #EXTINF:-1,Кинозал Film TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.goodgame.ru/hls/178880.m3u8
