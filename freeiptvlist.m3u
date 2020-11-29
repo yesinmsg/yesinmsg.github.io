@@ -41,12 +41,6 @@ https://hls.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1,SC TV FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://hls.goodgame.ru/hls/61358.m3u8
-#EXTINF:-1,Epic Seria HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://hls.goodgame.ru/hls/170475.m3u8
-#EXTINF:-1,E-Serial
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://v2.catcast.tv/content2/36168/index.m3u8
 #EXTINF:-1,Кинозал Film TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.goodgame.ru/hls/178880.m3u8
