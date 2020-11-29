@@ -44,9 +44,6 @@ https://hls.goodgame.ru/hls/153640.m3u8
 #EXTINF:-1,PZN FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://hls.goodgame.ru/hls/180960.m3u8
-#EXTINF:-1,FANTASTIKA HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://hls.goodgame.ru/hls/181070.m3u8
 #EXTINF:-1,Filedron FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://hls.goodgame.ru/hls/180204.m3u8
