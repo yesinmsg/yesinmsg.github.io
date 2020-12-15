@@ -5,12 +5,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8?vers
 #EXTINF:-1,TV 1000 Action FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://dmitry-tv.my1.ru/his/zabava/04/CH_TV1000ACTIONHD.m3u8?version=2&offset=-64800|user-agent=mx
-#EXTINF:-1,Kino UHD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://188.35.9.26:16050/udp/238.0.16.1:69000
-#EXTINF:-1,TV 1000 HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://188.93.95.83/tv1000/index.m3u8
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
