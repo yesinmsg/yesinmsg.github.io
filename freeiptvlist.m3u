@@ -1,13 +1,16 @@
 ﻿#EXTM3U
- #EXTINF:-1,TV 1000 HD
-#EXTGRP:Кино
-http://195.191.208.78:8080/tv1000hd/index.m3u8
+#EXTINF:-1,Serial UHD FHD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2&offset=-3600|user-agent=mx
 #EXTINF:-1,TV 1000 Action FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://dmitry-tv.my1.ru/his/zabava/04/CH_TV1000ACTIONHD.m3u8?version=2&offset=-64800|user-agent=mx
-#EXTINF:-1,TV 1000 World Kino
+#EXTINF:-1,Kino UHD
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://195.189.105.158:9050/121/index.m3u8
+http://188.35.9.26:16050/udp/238.0.16.1:69000
+#EXTINF:-1,TV 1000 HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://188.93.95.83/tv1000/index.m3u8
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
@@ -17,9 +20,6 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,PZN FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://hls.goodgame.ru/hls/180960.m3u8
-#EXTINF:-1,Filiza Studios FHD
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://hls.goodgame.ru/hls/166446.m3u8
 #EXTINF:-1,Кинозал Film TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.goodgame.ru/hls/178880.m3u8
