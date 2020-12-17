@@ -1,7 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1,Kino UHD FHD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://188.35.9.26:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Serial UHD FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2&offset=-3600|user-agent=mx
