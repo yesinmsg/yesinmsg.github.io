@@ -25,7 +25,7 @@ http://hls.goodgame.ru/hls/5346.m3u8
 https://hls.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1,Кинозал Film TV
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://hls.goodgame.ru/hls/178880.m3u8
+http://filmtv.zapto.org:8050/hls/stream/index.m3u8
 #EXTINF:-1,FAN HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://hls.goodgame.ru/manifest/157239_master.m3u8
