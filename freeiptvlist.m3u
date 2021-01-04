@@ -2,24 +2,6 @@
 #EXTINF:-1,Serial UHD FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2&offset=-3600|user-agent=mx
-#EXTINF:-1,1+1
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://163.172.71.147:8080/1plus1/mpegts
-#EXTINF:-1,2+2
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://163.172.71.147:8080/2plus2/mpegts
-#EXTINF:-1,Новий
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://163.172.71.147:8080/novyy/mpegts
-#EXTINF:-1,CTБ
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://163.172.71.147:8080/stb/mpegts
-#EXTINF:-1,CTБ
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://188.35.9.11:2002
-#EXTINF:-1,ICTV
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://51.195.44.53:8081/tv/ictv/playlist.m3u8
 #EXTINF:-1,TV 1000 Action FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://dmitry-tv.my1.ru/his/zabava/04/CH_TV1000ACTIONHD.m3u8?version=2&offset=-64800|user-agent=mx
