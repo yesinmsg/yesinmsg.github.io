@@ -4,7 +4,7 @@
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2&offset=-3600|user-agent=mx
 #EXTINF:-1,TV 1000 HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://195.191.208.78:8080/tv1000hd/index.m3u8
+http://188.93.95.83/tv1000/index.m3u8
 #EXTINF:-1,TV 1000 Action FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://dmitry-tv.my1.ru/his/zabava/04/CH_TV1000ACTIONHD.m3u8?version=2&offset=-64800|user-agent=mx
