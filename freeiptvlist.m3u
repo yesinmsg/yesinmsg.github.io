@@ -62,9 +62,6 @@ http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
 #EXTINF:-1,UATV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1,24 канал
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
 #EXTINF:-1,112 Украина HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
