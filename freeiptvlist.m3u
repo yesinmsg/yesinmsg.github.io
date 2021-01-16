@@ -8,24 +8,36 @@ http://dmitry-tv.my1.ru/his/zabava/04/CH_TV1000ACTIONHD.m3u8?version=2&offset=-6
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1,TOP: CINEMA HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://topchantv.net:3456/paradise/911TV/1611
+#EXTINF:-1,KINOBOOM HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://autopilot.catcast.tv/content/35525/index.m3u8
 #EXTINF:-1,SC TV FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://hls.goodgame.ru/hls/61358.m3u8
+http://cdnnow.goodgame.ru/hls/61358.m3u8
 #EXTINF:-1,Filiza Studios FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://hls.goodgame.ru/hls/166446.m3u8
+http://cdnnow.goodgame.ru/hls/166446.m3u8
+#EXTINF:-1,PSY FI HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://cdnnow.goodgame.ru/hls/143518.m3u8
 #EXTINF:-1,Кинозал Akudji HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://hls.goodgame.ru/hls/5346.m3u8
+http://cdnnow.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,PZN FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
-https://hls.goodgame.ru/hls/180960.m3u8
+http://cdnnow.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1,Кинозал Film TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://filmtv.zapto.org:8050/hls/stream/index.m3u8
-#EXTINF:-1,FAN HD
+#EXTINF:-1,VIP HORROR HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-https://hls.goodgame.ru/manifest/157239_master.m3u8
+http://cdnnow.goodgame.ru/hls/178234.m3u8
+#EXTINF:-1,FilmMax
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://cdnnow.goodgame.ru/hls/163253.m3u8
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
