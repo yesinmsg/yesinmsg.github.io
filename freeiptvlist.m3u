@@ -23,9 +23,6 @@ http://cdnnow.goodgame.ru/hls/143518.m3u8
 #EXTINF:-1,Кинозал Akudji HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://cdnnow.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,PZN FHD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://cdnnow.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1,Кинозал Film TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://filmtv.zapto.org:8050/hls/stream/index.m3u8
