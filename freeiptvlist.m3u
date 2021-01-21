@@ -5,12 +5,6 @@ http://dmitry-tv.my1.ru/his/zabava/04/CH_TV1000ACTIONHD.m3u8?version=2&offset=-6
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1,TOP: CINEMA HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://topchantv.net:3456/paradise/911TV/1611
-#EXTINF:-1,KINOBOOM HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://autopilot.catcast.tv/content/35525/index.m3u8
 #EXTINF:-1,SC TV FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://cdnnow.goodgame.ru/hls/61358.m3u8
