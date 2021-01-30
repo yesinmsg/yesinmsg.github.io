@@ -1,7 +1,11 @@
 ﻿#EXTM3U
+#EXTINF:-1,Кино ТВ
+http://51.195.44.53:8081/tv/kino-tv/chunks.m3u8
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1,PZN FHD
+https://cdnnow.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1,SC TV FHD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://cdnnow.goodgame.ru/hls/61358.m3u8
@@ -23,6 +27,8 @@ http://cdnnow.goodgame.ru/hls/178234.m3u8
 #EXTINF:-1,FilmMax
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://cdnnow.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1,kinobest
+https://v2.catcast.tv/content/39478/index.m3u8
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
