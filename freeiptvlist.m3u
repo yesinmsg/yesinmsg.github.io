@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1,Кино ТВ
-http://51.195.44.53:8081/tv/kino-tv/chunks.m3u8
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
