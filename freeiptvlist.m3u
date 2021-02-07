@@ -82,15 +82,6 @@ http://51.195.44.53:8081/tv/ictv/playlist.m3u8
 #EXTINF:-1,Кинопоказ
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://194.156.166.2:8000/play/a019
-#EXTINF:-1,Шокирующее HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
-#EXTINF:-1,Комедийное HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
-#EXTINF:-1,Русское HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://spacetv.in/stream/DIPK8H19CP8/226.m3u8
 #EXTINF:-1,Serial UHD 4K
 #EXTGRP:4K
 #EXTVLCOPT:http-user-agent=SmartLabs
