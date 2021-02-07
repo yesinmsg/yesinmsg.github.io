@@ -1,7 +1,22 @@
 ﻿#EXTM3U
+#EXTINF:-1,TV 1000 HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://185.220.35.94:8080/TV1000_HD/index.m3u8
+#EXTINF:-1,TV 1000 World Kino
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://195.189.105.158:9050/121/index.m3u8
+#EXTINF:-1,312 Кино
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1,seriesTV
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://cdnnow.goodgame.ru/hls/183108.m3u8
+#EXTINF:-1,ZeraToo HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://cdnnow.goodgame.ru:80/hls/41158.m3u8
 #EXTINF:-1,PZN FHD
 https://cdnnow.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1,SC TV FHD
@@ -63,9 +78,36 @@ http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
 #EXTINF:-1,UATV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1,112 Украина HD
+#EXTINF:-1,1+1 HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+http://spacetv.in/stream/DIPK8H19CP8/172.m3u8
+#EXTINF:-1,CTБ HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://ott.watch/stream/DIPK8H19CP8/156.m3u8
+#EXTINF:-1,ICTV
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://51.195.44.53:8081/tv/ictv/playlist.m3u8
+#EXTINF:-1,Serial UHD 4K
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://dmitry-tv.my1.ru/his/zabava/04/CH_SERIALUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
+#EXTINF:-1,Kino UHD 4K
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://dmitry-tv.my1.ru/his/zabava/04/CH_KINOUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
+#EXTINF:-1,Amedia Hit HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1,Кинопоказ
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://194.156.166.2:8000/play/a019
+#EXTINF:-1,Шокирующее HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
+#EXTINF:-1,Комедийное HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
+#EXTINF:-1,Страшное HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://spacetv.in/stream/DIPK8H19CP8/226.m3u8
 #EXTINF:-1,Дом кинo
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
