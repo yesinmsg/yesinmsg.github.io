@@ -34,11 +34,6 @@ http://filmtv.zapto.org:8050/hls/stream/index.m3u8
 #EXTINF:-1,VIP HORROR HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://cdnnow.goodgame.ru/hls/178234.m3u8
-#EXTINF:-1,FilmMax
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://cdnnow.goodgame.ru/hls/163253.m3u8
-#EXTINF:-1,kinobest
-https://v2.catcast.tv/content/39478/index.m3u8
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
@@ -84,15 +79,6 @@ http://ott.watch/stream/DIPK8H19CP8/156.m3u8
 #EXTINF:-1,ICTV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://51.195.44.53:8081/tv/ictv/playlist.m3u8
-#EXTINF:-1,Serial UHD 4K
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://dmitry-tv.my1.ru/his/zabava/04/CH_SERIALUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
-#EXTINF:-1,Kino UHD 4K
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://dmitry-tv.my1.ru/his/zabava/04/CH_KINOUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
-#EXTINF:-1,Amedia Hit HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1,Кинопоказ
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://194.156.166.2:8000/play/a019
@@ -102,6 +88,18 @@ http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
 #EXTINF:-1,Комедийное HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
-#EXTINF:-1,Страшное HD
+#EXTINF:-1,Русское HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://spacetv.in/stream/DIPK8H19CP8/226.m3u8
+#EXTINF:-1,Serial UHD 4K
+#EXTGRP:4K
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://dmitry-tv.my1.ru/his/zabava/04/CH_SERIALUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
+#EXTINF:-1,Kino UHD 4K
+#EXTGRP:4K
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://dmitry-tv.my1.ru/his/zabava/04/CH_KINOUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
+#EXTINF:-1,Amedia Hit HD
+#EXTGRP:4K
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
