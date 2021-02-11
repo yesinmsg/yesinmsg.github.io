@@ -1,39 +1,31 @@
 ﻿#EXTM3U
-#EXTINF:-1,TV 1000 HD
+ #EXTINF:-1,TOP: CINEMA HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://185.220.35.94:8080/TV1000_HD/index.m3u8
+http://topchantv.net:3456/promotest/Promotest/1611
+#EXTINF:-1,TOP: MIX
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://topchantv.net:3456/promotest/Promotest/12597
+ #EXTINF:-1,VIP Comedy HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_comedy
+#EXTINF:-1,VIP Megahit
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_megahit
+#EXTINF:-1,VIP Premiere HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_premiere
+#EXTINF:-1,VIP Serial
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_serial
 #EXTINF:-1,TV 1000 World Kino
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1,seriesTV
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://cdnnow.goodgame.ru/hls/183108.m3u8
-#EXTINF:-1,ZeraToo HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://cdnnow.goodgame.ru:80/hls/41158.m3u8
-#EXTINF:-1,PZN FHD
-https://cdnnow.goodgame.ru/hls/180960.m3u8
-#EXTINF:-1,SC TV FHD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://cdnnow.goodgame.ru/hls/61358.m3u8
-#EXTINF:-1,Filiza Studios FHD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://cdnnow.goodgame.ru/hls/166446.m3u8
-#EXTINF:-1,PSY FI HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://cdnnow.goodgame.ru/hls/143518.m3u8
-#EXTINF:-1,Кинозал Akudji HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://cdnnow.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Кинозал Film TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://filmtv.zapto.org:8050/hls/stream/index.m3u8
-#EXTINF:-1,VIP HORROR HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://cdnnow.goodgame.ru/hls/178234.m3u8
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
@@ -81,3 +73,4 @@ http://dmitry-tv.my1.ru/his/zabava/04/CH_SERIALUHD_HLSUHD.m3u8?version=2&offset=
 #EXTGRP:4K
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://dmitry-tv.my1.ru/his/zabava/04/CH_KINOUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
+
