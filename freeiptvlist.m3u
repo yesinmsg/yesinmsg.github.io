@@ -1,4 +1,22 @@
 ﻿#EXTM3U
+ #EXTINF:-1,VIP Comedy HD
+ #EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_comedy
+#EXTINF:-1,VIP Megahit
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_megahit
+#EXTINF:-1,VIP Premiere HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_premiere
+#EXTINF:-1,VIP Serial
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_serial
+#EXTINF:-1,TV 1000 Action 
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://23.111.81.228:1893/ch-565/video.m3u8?token=test
+#EXTINF:-1,Остросюжетное FHD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://88.218.240.11:80/ostrosiuzhetnoe-hd/video.m3u8
 #EXTINF:-1,TV 1000 World Kino
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://195.189.105.158:9050/121/index.m3u8
