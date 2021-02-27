@@ -11,6 +11,14 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_premiere
 #EXTINF:-1,VIP Serial
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_serial
+#EXTINF:-1,Amedia 2
+http://51.68.140.190:8081/tv/amedia2/playlist.m3u8
+#EXTINF:-1,Кинопремьера HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
+#EXTINF:-1,Кинопоказ
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://185.74.7.220:8080/kinopokaz/tracks-v1a1/index.m3u8
 #EXTINF:-1,TV 1000 World Kino
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://195.189.105.158:9050/121/index.m3u8
@@ -47,17 +55,29 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=
 #EXTINF:-1,Че
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,TV5
+#EXTINF:-1,ТВ5
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
-#EXTINF:-1,UATV
+#EXTINF:-1,UA:Перший HD
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1,Serial UHD
+http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
+#EXTINF:-1,Правда ТУТ HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,Viasat Explore HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_explore
+#EXTINF:-1,Viasat Nature FHD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_nature
+#EXTINF:-1,Viasat History HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_history
+#EXTINF:-1,Сериал UHD
 #EXTGRP:4K
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://dmitry-tv.my1.ru/his/zabava/04/CH_SERIALUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
-#EXTINF:-1,Kino UHD
+#EXTINF:-1,Кино UHD
 #EXTGRP:4K
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://dmitry-tv.my1.ru/his/zabava/04/CH_KINOUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
