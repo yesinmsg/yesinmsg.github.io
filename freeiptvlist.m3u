@@ -11,8 +11,6 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_premiere
 #EXTINF:-1,VIP Serial
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_serial
-#EXTINF:-1,Amedia 2
-http://51.68.140.190:8081/tv/amedia2/playlist.m3u8
 #EXTINF:-1,Кинопремьера HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
@@ -58,6 +56,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 #EXTINF:-1,ТВ5
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1,ZTV (Запорожье)
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1,7 канал
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1,Алекс
+#EXTVLCOPT:http-user-agent=SmartLabs
+rtmp://46.46.112.223/live/livestream2
 #EXTINF:-1,UA:Перший HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
@@ -81,4 +88,34 @@ http://dmitry-tv.my1.ru/his/zabava/04/CH_SERIALUHD_HLSUHD.m3u8?version=2&offset=
 #EXTGRP:4K
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://dmitry-tv.my1.ru/his/zabava/04/CH_KINOUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
+#EXTINF:-1,1+1
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://163.172.71.147:8080/1plus1/mpegts
+#EXTINF:-1,2+2
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://163.172.71.147:8080/2plus2/mpegts
+#EXTINF:-1,Новый канал 
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://163.172.71.147:8080/novyy/mpegts
+#EXTINF:-1,Новый канал 2
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://62.16.31.252:5555/udp/239.1.7.5:1234
+#EXTINF:-1,ICTV
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://163.172.71.147:8080/ictv/mpegts
+#EXTINF:-1,ТЕТ
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://163.172.71.147:8080/tet/mpegts
+#EXTINF:-1,СТБ HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://163.172.71.147:8080/stb/mpegts
+#EXTINF:-1,34 канал
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1 ,UKR Live
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://95.67.12.149:9005
+#EXTINF:-1 , Kino 24.
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://163.172.71.147:8080/stb/mpegts
 
