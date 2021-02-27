@@ -11,21 +11,12 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_premiere
 #EXTINF:-1,VIP Serial
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_serial
-#EXTINF:-1,TV 1000 Action 
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://23.111.81.228:1893/ch-565/video.m3u8?token=test
-#EXTINF:-1,Остросюжетное FHD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://88.218.240.11:80/ostrosiuzhetnoe-hd/video.m3u8
 #EXTINF:-1,TV 1000 World Kino
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1,Film TV
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://filmtv.zapto.org:8050/hls/stream/index.m3u8
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
