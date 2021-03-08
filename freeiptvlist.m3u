@@ -26,6 +26,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version
 #EXTINF:-1,2x2
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Русская комедия
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 #EXTINF:-1,РЕН ТВ
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
