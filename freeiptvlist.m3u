@@ -94,9 +94,3 @@ http://dmitry-tv.my1.ru/his/zabava/04/CH_SERIALUHD_HLSUHD.m3u8?version=2&offset=
 #EXTGRP:4K
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://dmitry-tv.my1.ru/his/zabava/04/CH_KINOUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
-#EXTINF:-1,Комедийное HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
-#EXTINF:-1,Шокирующее HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
