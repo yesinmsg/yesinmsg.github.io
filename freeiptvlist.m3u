@@ -14,6 +14,9 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_serial
 #EXTINF:-1,Кинопремьера HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV 1000
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
 #EXTINF:-1,TV 1000 World Kino
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://195.189.105.158:9050/121/index.m3u8
