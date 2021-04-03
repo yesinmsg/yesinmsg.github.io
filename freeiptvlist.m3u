@@ -20,9 +20,46 @@ http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
 #EXTINF:-1,TV 1000 World Kino
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://195.189.105.158:9050/121/index.m3u8
-#EXTINF:-1,Ultra HD Cinema
+#EXTINF:-1,Sony Channel
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
+https://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
+#EXTINF:-1,BACKUSTV HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://s2.catcast.tv/content/39837/index.m3u8
+#EXTINF:-1,BACKUSTV Страшное HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://s2.catcast.tv/content/39864/index.m3u8
+#EXTINF:-1,КиноСат
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://89.104.114.7:8080/kinosat/index.m3u8
+#EXTINF:-1,Film TV
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://filmtv.zapto.org:8050/hls/stream/index.m3u8
+#EXTINF:-1,ТВ5
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1,ZTV (Запорожье)
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1,UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,Алекс UA
+http://46.46.112.223/live/livestream2.m3u8
+#EXTINF:-1,Интер
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,К1
+http://edge1.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1,НТН
+https://edge1.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1,7 канал
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1,UA:Перший HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
+#EXTINF:-1,Правда ТУТ HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
@@ -53,31 +90,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=
 #EXTINF:-1,Че
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТВ5
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
-#EXTINF:-1,ZTV (Запорожье)
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1,UA TV HD
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1,Алекс UA
-http://46.46.112.223/live/livestream2.m3u8
-#EXTINF:-1,Интер
-https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1,К1
-http://edge1.iptv.macc.com.ua/life/k1_3/index.m3u8
-#EXTINF:-1,НТН
-https://edge1.iptv.macc.com.ua/img/ntn_3/index.m3u8
-#EXTINF:-1,7 канал
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1,UA:Перший HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
-#EXTINF:-1,Правда ТУТ HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
 #EXTINF:-1,Viasat Explore HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_explore
@@ -87,11 +99,6 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_nature
 #EXTINF:-1,Viasat History HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_history
-#EXTINF:-1,Сериал UHD
-#EXTGRP:4K
+#EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://dmitry-tv.my1.ru/his/zabava/04/CH_SERIALUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
-#EXTINF:-1,Кино UHD
-#EXTGRP:4K
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://dmitry-tv.my1.ru/his/zabava/04/CH_KINOUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
