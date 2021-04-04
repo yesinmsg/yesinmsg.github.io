@@ -32,13 +32,13 @@ https://s2.catcast.tv/content/39864/index.m3u8
 #EXTINF:-1,Киноcат
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://89.104.114.7:8080/kinosat/index.m3u8
-#EXTINF:-1,Film HD
+#EXTINF:-1,Film TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://filmtv.zapto.org:8050/hls/stream/index.m3u8
 #EXTINF:-1,TV5 Запорожье
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
-#EXTINF:-1,ZTV (Запорожье)
+#EXTINF:-1,ZTV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1,UATV
@@ -66,7 +66,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version
 #EXTINF:-1,2x2
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,РЕН ТВ
+#EXTINF:-1,Рен ТВ
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТНТ
