@@ -20,7 +20,7 @@ http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
 #EXTINF:-1,TV 1000 World Kino
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://195.189.105.158:9050/121/index.m3u8
-#EXTINF:-1,Sony Channel
+#EXTINF:-1,Sony ТВ HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
 #EXTINF:-1,BACKUSTV HD
@@ -35,15 +35,15 @@ http://89.104.114.7:8080/kinosat/index.m3u8
 #EXTINF:-1,Film TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://filmtv.zapto.org:8050/hls/stream/index.m3u8
-#EXTINF:-1,ТВ5
+#EXTINF:-1,TV5 Запорожье
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
 #EXTINF:-1,ZTV (Запорожье)
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1,UA TV HD
+#EXTINF:-1,UATV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1,Алекс UA
+#EXTINF:-1,Алекс ТВ
 http://46.46.112.223/live/livestream2.m3u8
 #EXTINF:-1,Интер
 https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
@@ -75,7 +75,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТНТ4
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Пятница!
+#EXTINF:-1,Пятница
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,СТС
