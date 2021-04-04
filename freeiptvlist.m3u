@@ -23,10 +23,10 @@ http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1,Sony ТВ HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
-#EXTINF:-1,BACKUSTV HD
+#EXTINF:-1,BackusTV
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://s2.catcast.tv/content/39837/index.m3u8
-#EXTINF:-1,BACKUSTV Страшное HD
+#EXTINF:-1,BackusTV Страшное
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://s2.catcast.tv/content/39864/index.m3u8
 #EXTINF:-1,Киноcат
