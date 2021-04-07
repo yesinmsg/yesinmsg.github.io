@@ -100,5 +100,5 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_nature
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_history
 #EXTINF:-1,Ultra HD Cinema
-#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
+#EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
