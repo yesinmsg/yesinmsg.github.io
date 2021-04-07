@@ -35,9 +35,6 @@ http://89.104.114.7:8080/kinosat/index.m3u8
 #EXTINF:-1,Film TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://filmtv.zapto.org:8050/hls/stream/index.m3u8
-#EXTINF:-1,KINDER TV
-#EXTVLCOPT:http-user-agent=SmartLab
-http://filmtv.zapto.org:8050/hls/kindertv/index.m3u8
 #EXTINF:-1,TV5 Запорожье
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
