@@ -14,27 +14,27 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_serial
 #EXTINF:-1,Кинопремьера HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
-#EXTINF:-1,TV 1000
+#EXTINF:-1,Кинопоказ
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
+http://185.74.7.220:8080/kinopokaz/tracks-v1a1/index.m3u8
 #EXTINF:-1,TV 1000 World Kino
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1,Sony ТВ HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
-#EXTINF:-1,BackusTV
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://s2.catcast.tv/content/39837/index.m3u8
-#EXTINF:-1,BackusTV Страшное
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://s2.catcast.tv/content/39864/index.m3u8
 #EXTINF:-1,Киносат
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://89.104.114.7:8080/kinosat/index.m3u8
+#EXTINF:-1,HORROR
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://autopilot.catcast.tv/content/38710/index.m3u8
 #EXTINF:-1,Film TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://filmtv.zapto.org:8050/hls/stream/index.m3u8
+#EXTINF:-1,Твое ТВ HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1,TV5 Запорожье
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
