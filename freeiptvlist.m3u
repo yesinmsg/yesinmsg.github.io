@@ -29,7 +29,7 @@ http://89.104.114.7:8080/kinosat/index.m3u8
 #EXTINF:-1,Millenium TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
-#EXTINF:-1,Fentezy HD
+#EXTINF:-1,Kinder TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://autopilot.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1,Фантастика Sci-Fi
