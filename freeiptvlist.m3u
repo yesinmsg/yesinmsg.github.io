@@ -47,10 +47,10 @@ http://edge04.beetv.kz/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
 #EXTINF:-1,Рен ТВ Int
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8
-#EXTINF:-1,ТНТ Int
+#EXTINF:-1,ТНТ
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
-#EXTINF:-1,ТНТ4 Int
+#EXTINF:-1,ТНТ4
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
 #EXTINF:-1,СТС
