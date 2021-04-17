@@ -1,5 +1,17 @@
 ﻿#EXTM3U
- #EXTINF:-1,Кинопремьера HD
+#EXTINF:-1,VIP Comedy HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_comedy
+#EXTINF:-1,VIP Megahit
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_megahit
+#EXTINF:-1,VIP Premiere HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_premiere
+#EXTINF:-1,VIP Serial
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_serial
+#EXTINF:-1,Кинопремьера HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
 #EXTINF:-1,Кинопоказ
@@ -13,9 +25,6 @@ http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1,Millenium TV
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
-#EXTINF:-1,Kinder TV
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://autopilot.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1,Fox HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
@@ -97,18 +106,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=
 #EXTINF:-1,Че
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,VIP Comedy HD
- #EXTVLCOPT:http-user-agent=SmartLabs
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_comedy
-#EXTINF:-1,VIP Megahit
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_megahit
-#EXTINF:-1,VIP Premiere HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_premiere
-#EXTINF:-1,VIP Serial
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_serial
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
