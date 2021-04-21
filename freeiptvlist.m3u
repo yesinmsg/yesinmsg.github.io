@@ -15,7 +15,10 @@ http://195.189.105.158:9050/121/index.m3u8
 http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
 #EXTINF:-1,Fox
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
+http://russia2.livetv.az/russia/fox_russia_sd/playlist.m3u8
+#EXTINF:-1,Fox Life HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://edge04.beetv.kz/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
 #EXTINF:-1,Hollywood
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
@@ -34,9 +37,11 @@ http://edge04.beetv.kz/btv/SWM/A1/A1_1080p_5000kbps.m3u8
 #EXTINF:-1,Amedia 2
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/A2/A2_576p_2000kbps.m3u8
-#EXTINF:-1,Cinema TV
+#EXTINF:-1,Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+#EXTINF:-1,НСТ
+http://edge04.beetv.kz/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
 #EXTINF:-1,Еврокино
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
@@ -45,7 +50,7 @@ http://edge04.beetv.kz/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
 http://edge04.beetv.kz/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8
 #EXTINF:-1,ТНТ
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
+http://31.128.159.41:8080/tnt/index.m3u8
 #EXTINF:-1,ТНТ4
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
