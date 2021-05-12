@@ -5,8 +5,6 @@ http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
 #EXTINF:-1,Кинопоказ
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://185.74.7.220:8080/kinopokaz/tracks-v1a1/index.m3u8
-#EXTINF:-1,Киносат
-http://89.104.114.7:8080/kinosat/index.m3u8
 #EXTINF:-1,TV 1000 World Kino
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://195.189.105.158:9050/121/index.m3u8
