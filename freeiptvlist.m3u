@@ -11,6 +11,9 @@ http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
 #EXTINF:-1,Fox HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://russia2.livetv.az/russia/fox_russia_sd/playlist.m3u8
+#EXTINF:-1,Комедия
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://russia2.livetv.az/russia/komediya/playlist.m3u8
 #EXTINF:-1,Fox Life
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
