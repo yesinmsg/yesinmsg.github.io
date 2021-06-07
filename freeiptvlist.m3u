@@ -60,8 +60,6 @@ http://31.128.159.41:8080/sts/index.m3u8
 #EXTINF:-1,ТВ-3
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://31.128.159.41:8080/tv3/index.m3u8
-#EXTINF:-1,TV BRICS
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV5 Запорожье
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
