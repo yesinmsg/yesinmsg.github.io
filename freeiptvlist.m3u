@@ -14,6 +14,42 @@ http://russia2.livetv.az/russia/fox_russia_sd/playlist.m3u8
 #EXTINF:-1,Комедия
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://russia2.livetv.az/russia/komediya/playlist.m3u8
+#EXTINF:-1,Кинокомедия FHD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://edge04.beetv.kz/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
+#EXTINF:-1,Кинопремьера FHD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1,Киносвидание FHD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://edge04.beetv.kz/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
+#EXTINF:-1,Киносвидание HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1,Киносемья HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:0,Кинокомедия HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:0,Кинохит HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:0,Киномикс HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:0,Мужское кино
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:-1,Свежаки HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://ed-ru-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Уже видел HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://ed-ru-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Доку HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+https://ed-ru-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fox Life
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
