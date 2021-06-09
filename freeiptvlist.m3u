@@ -14,13 +14,13 @@ http://russia2.livetv.az/russia/fox_russia_sd/playlist.m3u8
 #EXTINF:-1,Комедия
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://russia2.livetv.az/russia/komediya/playlist.m3u8
-#EXTINF:-1,Кинокомедия FHD
+#EXTINF:-1,Кинокомедия
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
-#EXTINF:-1,Кинопремьера FHD
+#EXTINF:-1,Кинопремьера
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1,Киносвидание FHD
+#EXTINF:-1,Киносвидание
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
 #EXTINF:-1,Свежаки HD
@@ -29,9 +29,6 @@ https://ed-ru-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Уже видел HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://ed-ru-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Доку HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-https://ed-ru-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fox Life
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://edge04.beetv.kz/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
