@@ -16,19 +16,19 @@ http://russia2.livetv.az/russia/fox_russia_sd/playlist.m3u8
 http://russia2.livetv.az/russia/komediya/playlist.m3u8
 #EXTINF:-1,Кинокомедия
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
 #EXTINF:-1,Кинопремьера
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:-1,Киносвидание
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
 #EXTINF:-1,Paramount Channel
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://russia2.livetv.az/russia/paramount/playlist.m3u8
 #EXTINF:-1,Paramount Comedy
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
 #EXTINF:-1,Свежаки HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://ed-ru-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
@@ -37,38 +37,38 @@ https://ed-ru-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
 https://ed-ru-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fox Life
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
 #EXTINF:-1,Hollywood
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
 #EXTINF:-1,Sony
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
 #EXTINF:-1,Sony Turbo
-http://edge04.beetv.kz/btv/SWM/SonyTurbo/SonyTurbo_576p_2000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/SonyTurbo/SonyTurbo_576p_2000kbps.m3u8
 #EXTINF:-1,Amedia 1
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/A1/A1_1080p_5000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/A1/A1_1080p_5000kbps.m3u8
 #EXTINF:-1,Amedia 2
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/A2/A2_576p_2000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/A2/A2_576p_2000kbps.m3u8
 #EXTINF:-1,Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
 #EXTINF:-1,НСТ
-http://edge04.beetv.kz/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
 #EXTINF:-1,Еврокино
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
 #EXTINF:-1,Рен ТВ Int
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8
 #EXTINF:-1,ТНТ
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://31.128.159.41:8080/tnt/index.m3u8
 #EXTINF:-1,ТНТ4
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://edge04.beetv.kz/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
+http://edge01.beetv.kz/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
 #EXTINF:-1,СТС
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://31.128.159.41:8080/sts/index.m3u8
