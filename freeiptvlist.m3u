@@ -22,7 +22,7 @@ http://176.222.164.73/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
 http://russia2.livetv.az/russia/paramount/playlist.m3u8
 #EXTINF:-1,Paramount Comedy
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://176.222.164.73/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
+http://188.40.68.167/russia/paramount_comedy/playlist.m3u8
 #EXTINF:-1,Свежаки HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 https://ed-ru-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
