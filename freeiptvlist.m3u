@@ -49,15 +49,6 @@ http://31.128.159.41:8080/sts/index.m3u8
 #EXTINF:-1,ТВ-3
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://31.128.159.41:8080/tv3/index.m3u8
-#EXTINF:-1,Новий канал
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://51.15.176.84/hls/novy-1/index.m3u8
-#EXTINF:-1 ,ICTV Ukraine
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://46.63.0.9:8001/ictv
-#EXTINF:-1 ,CTБ HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://118.47.168.157:8080/play/a02b/index.m3u8
 #EXTINF:-1,Пятница
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
