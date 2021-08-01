@@ -55,8 +55,12 @@ http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
 #EXTINF:-1,Z TV (Запорожье)
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1,К1
-http://edge1.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1 ,ICTV Ukraine
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://46.63.0.9:8001/ictv
+#EXTINF:-1 ,CTБ HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://118.47.168.157:8080/play/a02b/index.m3u8
 #EXTINF:-1,Пятница
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
