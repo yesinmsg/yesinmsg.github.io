@@ -49,12 +49,9 @@ http://31.128.159.41:8080/sts/index.m3u8
 #EXTINF:-1,ТВ-3
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://31.128.159.41:8080/tv3/index.m3u8
-#EXTINF:-1,TV5 Запорожье
+#EXTINF:-1,Новий канал
 #EXTVLCOPT:http-user-agent=SmartLabs
-http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
-#EXTINF:-1,Z TV (Запорожье)
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://stream.ztv.zp.ua/hls/live.m3u8
+http://51.15.176.84/hls/novy-1/index.m3u8
 #EXTINF:-1 ,ICTV Ukraine
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://46.63.0.9:8001/ictv
@@ -73,6 +70,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=
 #EXTINF:-1,Че
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ4
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
