@@ -1,35 +1,36 @@
 ﻿#EXTM3U
 #EXTINF:-1,Fox
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://russia2.livetv.az/russia/fox_russia_sd/playlist.m3u8
 #EXTINF:-1,Комедия
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://russia2.livetv.az/russia/komediya/playlist.m3u8
 #EXTINF:-1,Paramount Channel
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://russia2.livetv.az/russia/paramount/playlist.m3u8
 #EXTINF:-1,Paramount Comedy
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://188.40.68.167/russia/paramount_comedy/playlist.m3u8
 #EXTINF:-1,Amedia 1
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s45/04.m3u8
 #EXTINF:-1,Amedia 2
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/A2_38_39.m3u8
 #EXTINF:-1,Cinema
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Cinema_38_39.m3u8
 #EXTINF:-1,НСТ
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:-1,ТНТ
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://31.128.159.41:8080/tnt/index.m3u8
 #EXTINF:-1,СТС
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://31.128.159.41:8080/sts/index.m3u8
 #EXTINF:-1,ТВ-3
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://31.128.159.41:8080/tv3/index.m3u8
 #EXTINF:-1,Пятница
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
@@ -47,23 +48,23 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Ultra HD Cinema
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:-1,VIP Premiere
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:-1,VIP Megahit
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:-1,VIP Comedy
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://188.40.68.167/russia/vip_comedy/playlist.m3u8
 #EXTINF:-1,VIP Serial
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 #EXTINF:-1,TV1000 HD
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1,Millenium TV
-#EXTVLCOPT:http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
