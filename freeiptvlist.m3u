@@ -5,6 +5,9 @@ http://russia2.livetv.az/russia/fox_russia_sd/playlist.m3u8
 #EXTINF:-1,Комедия
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://russia2.livetv.az/russia/komediya/playlist.m3u8
+#EXTINF:-1,KINO 24
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
 #EXTINF:-1,Paramount Channel
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://russia2.livetv.az/russia/paramount/playlist.m3u8
@@ -20,6 +23,9 @@ https://sc.id-tv.kz/A2_38_39.m3u8
 #EXTINF:-1,Cinema
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Cinema_38_39.m3u8
+#EXTINF:-1,Hollywood
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://46.34.209.243/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
 #EXTINF:-1,НСТ
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/NSTV_34_35.m3u8
