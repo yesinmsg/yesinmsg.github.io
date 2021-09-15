@@ -16,25 +16,34 @@ http://188.40.68.167/russia/paramount_comedy/playlist.m3u8
 http://46.34.209.243/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
 #EXTINF:-1,Amedia 1
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s45/04.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Amedia 2
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://46.34.209.243/btv/SWM/A2/A2_576p_2000kbps.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITSD/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAPREMIUMSD/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Cinema
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://46.34.209.243/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PARKRAZVLECHENIJ/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,НСТ
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://46.34.209.243/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
 #EXTINF:-1,ТНТ
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://31.128.159.41:8080/tnt/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Рен ТВ
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,СТС
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://31.128.159.41:8080/sts/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТВ-3
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://31.128.159.41:8080/tv3/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Пятница
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
