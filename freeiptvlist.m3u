@@ -2,9 +2,6 @@
 #EXTINF:-1,Fox
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://russia2.livetv.az/russia/fox_russia_sd/playlist.m3u8
-#EXTINF:-1,Комедия
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://russia2.livetv.az/russia/komediya/playlist.m3u8
 #EXTINF:-1,Paramount Channel
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://russia2.livetv.az/russia/paramount/playlist.m3u8
