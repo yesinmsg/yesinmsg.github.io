@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>syesin - Git Blog</title>
+	<link href="css/demo.css" rel="stylesheet" type="text/css">
+	 <link rel="stylesheet" href="css/jqbar.css" />
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css">
+
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
+	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/simpletextrotator.css" />
+    <!--[if lt IE 9]> 
+			<style>
+				.rw-wrapper{ display: none; } 
+				.rw-sentence-IE{ display: block;  }
+			</style>
+	<![endif]-->
+</head>
+<body>
+
+	<div class="container topbottom">
+		<div class="row-fluid">
+
+			<div class="span5">
+				<img src="img/av.jpg" alt="Profile Avatar" class="avatar">
+
+				<div class="navigation">
+					<div>
+						<ul>
+							<li>
+								<img src="img/about-icon.png">
+								<a href="index.html">О нас</a>
+							</li>
+							<li>
+								<img src="img/portfolio-icon.png">
+								<a href="portfolio.html">Ссылки</a>
+							</li>
+							<li>
+								<img src="img/followme-icon.png">
+								<a href="follow.html">Подписаться</a>
+							</li>
+							<li>
+								<img src="img/contact-icon.png">
+								<a href="contact.html">Обратная связь</a>
+							</li>
+						</ul>
+					</div>
+				</div> 			
+			</div>
+
+			<div class="span7 homeabout">
+				<div class="person">
+					<span class="name">Sergey Yesin (syesin)</span>
+					<div class="font16">Automation engineer, cnc and robot programmer -<span class="greentext">yesinmsg.github.io</span></div>
+				</div>
+				
+				<div class="desciption home ">	
+					<div id="str">
+						<p>Конфигурирование и настройка ЧПУ стоек станков: <span class="rotate greentext"> лазерной и плазменной резки, гибочных и штамповочных прессов</span>. Обучение программированию промышленных роботов: <span class="rotate greentext">ABB, KUKA, Fanuc, EPSON, NACHI и прочие. </span>Подготовка программ, калибровка гриппера, 3д симуляции. Программирование plc контроллеров: <span class="rotate greentext">Bechhoff, Mitsubishi, Panasonic</span> на языке ladder и stl</p>
+					</div>
+					</div>	
+				<div class="row">
+					<div class="span12">					
+						<!--Google Ad here-->
+						<div id="box-ad">
+							
+						</div>
+						<!--Google ad ends here-->    
+					</div>
+				</div>
+				<div class="row">
+					<div class="span6">
+						 <div class="bars">
+							<div id="bar-1">
+							</div>
+							<div id="bar-2">
+							</div>
+							<div id="bar-3">
+							</div>
+							<div id="bar-4">
+							</div>
+                           
+						</div>
+					</div>					
+					<div class="span6">
+                    	<div class="user-tip"><img src="img/img-tip.png" alt="" /></div>
+						<div id="bars-content">
+							<div  class="content" id="content-1">Проект представляет собой библиотеку функций (инклуд) для обмена данными робота с сторонним оборудованием посредством FTP протокола. Хост - ЖД робота</div>
+							<div  class="content" id="content-2">Проект представляет собой библиотеку функций (инклуд) для поиска и расчета смещения точки с помощью любой промышленной камеры.</div>
+							<div  class="content" id="content-3">Проект представляет собой постпроцессор - конвертер раскроя с ПО ProNest в обработчик лазерного станка ПО Cypcut.</div>
+							<div  class="content" id="content-4">Любительский проект, набор обновляемых IPTV каналов для мультиплатформ Kodi, OTT-Play, SS-IPTV, ForkPlayer и тп..</div>
+						</div>
+					</div>
+				</div>			
+				
+			</div>
+
+		</div>
+	</div>
+    <script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
+	<script src="js/jqbar.js" type="text/javascript"></script>
+	
+	<script type="text/javascript">
+	 $(document).ready(function () {			
+		
+            $('#bar-1').jqbar({ label: 'ABB FTP manager', value: 99, barColor: '#21ba82' });
+
+            $('#bar-2').jqbar({ label: 'ABB Point finder', value: 99, barColor: '#21ba82' });
+
+            $('#bar-3').jqbar({ label: 'ProNest-CypCut PP', value: 80, barColor: '#21ba82' });
+
+            $('#bar-4').jqbar({ label: 'syes IPTV list', value: 90, barColor: '#21ba82' });
+
+          
+			
+			$('#bars-content .content').css({'opacity':'0',display:'none'});
+			$('#bars-content .content:eq(0)').css('display','block').animate({opacity:1},1000);
+			$('.jqbar:first').addClass('active');
+			$('.jqbar').hover(function(){ $(this).addClass('hover');},function(){ $(this).removeClass('hover');});
+			$('.jqbar').click(function(){
+				$('.jqbar').removeClass('active');
+				var id = $(this).addClass('active').attr('id').replace('bar','content');				
+				$('#bars-content .content').css({'opacity':'0',display:'none'});
+				$('#' + id).css('display','block').animate({opacity:1},1000);
+				
+			});		
+			
+			/* $(".rotate").textrotator({
+				animation: "spin",
+				separator: ",",
+				speed: 2000
+			  });
+			*/
+			
+        });
+		
+    </script>
+	<script type="text/javascript" src="js/jquery.bubble.text.js"></script>
+	<script type="text/javascript" src="js/jquery.simple-text-rotator.min.js"></script>
+  <!--Dynamically creates analytics markup-->			
+</body>
+</html>	
