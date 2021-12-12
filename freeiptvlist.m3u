@@ -76,26 +76,6 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 #EXTINF:-1,FOX Life hd
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
-#EXTINF:-1,Кинохит
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-#EXTINF:-1,Киномикс HD
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:-1,Киносемья FHD
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1,Кинокомедия
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1,Киносвидание HD
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1,Мужское Кино HD
-https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
-#EXTINF:-1,Кинопремьера FHD
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:-1,Cinema
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Cinema_34_35.m3u8
