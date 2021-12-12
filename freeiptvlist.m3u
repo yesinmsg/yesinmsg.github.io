@@ -49,3 +49,53 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1,TV1000 Action HD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1,Paradise HD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://195.154.242.229/Paradise_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1,Paradox HD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://195.154.242.229/Paradox_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1,Premiere HD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://195.154.242.229/Premiere_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1,Premium HD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://195.154.242.229/Premium_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1,A1 HD 2
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:-1,A2 HD 2
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:-1,Amedia Hit HD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+#EXTINF:-1,Fox HD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+#EXTINF:-1,FOX Life hd
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+#EXTINF:-1,Кинохит
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1,Киномикс HD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1,Киносемья FHD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1,Кинокомедия
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1,Киносвидание HD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1,Мужское Кино HD
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+#EXTINF:-1,Кинопремьера FHD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1,Cinema
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/Cinema_34_35.m3u8
