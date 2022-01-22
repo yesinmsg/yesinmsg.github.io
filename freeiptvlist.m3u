@@ -28,9 +28,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 #EXTINF:-1,ТНТ4
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Ultra HD Cinema
+#EXTINF:-1,Hollywood
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
 #EXTINF:-1,VIP Premiere
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
