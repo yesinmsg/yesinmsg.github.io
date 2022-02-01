@@ -13,12 +13,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?vers
 #EXTINF:-1,Кинохит
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://185.129.1.242:80/kinoxit/mpegts
-#EXTINF:-1,BACKUSTV HD
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1,BACKUSTV Страшное HD
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1,ТНТ
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
