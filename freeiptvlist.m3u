@@ -50,7 +50,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 #EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-logo="http://epg.it999.ru/img/2743.png" logo="https://runigma.com.ua/EPG/picons/Ultra%20HD%20Cinema%204K.png" channelId="3982",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/bw6000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="6tv" tvg-logo="https://settv.ru/static/images/logo/6tv_logo.png" channelId="-1" tvg-name="6ТВ (Хабаровск)" shift="2",6 ТВ
+#EXTINF:-1 tvg-id="6tv" tvg-logo="https://settv.ru/static/images/logo/6tv_logo.png" channelId="-1" tvg-name="6ТВ (Хабаровск)" shift="2",6ТВ (Хабаровск)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="2na2-pl2" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" shift="+2",2x2 (+2)
