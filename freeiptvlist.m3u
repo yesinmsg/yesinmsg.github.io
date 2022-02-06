@@ -1,4 +1,4 @@
-
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
 #EXTINF:-1,TV 1000
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
