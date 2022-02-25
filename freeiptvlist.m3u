@@ -101,9 +101,3 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/bw2000000/variant.m3u8?version=
 #EXTINF:-1 tvg-id="che-pl7" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/%D0%A7%D0%B5.png" channelId="22" shift="+7",Че (+7)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="teotv" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/10/d051a6c4657fdede0e501c837652be01.png" logo="https://runigma.com.ua/EPG/picons/%D0%A2%D0%95%D0%9E%20%D0%A2%D0%92.png" channelId="-1",ТЕО-ТВ HD
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TEOTV/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="yu" tvg-logo="http://www.oreol.tv/img/027_u.jpg" logo="http://televizor.org/img/logopit/%D0%AE.png" channelId="23",Ю
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
