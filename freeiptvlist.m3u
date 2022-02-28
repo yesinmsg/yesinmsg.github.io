@@ -1,9 +1,6 @@
 #EXTINF:-1,ТЕТ
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://212.115.255.196/Jfd85Hf/tet.m3u8
-#EXTINF:-1,Новий канал
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://37.187.28.95:2022/Noviy/mpegts
 #EXTINF:-1,UA:Перший HD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
