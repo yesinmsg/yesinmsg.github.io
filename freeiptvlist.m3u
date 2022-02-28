@@ -1,103 +1,287 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
-#EXTINF:-1 tvg-id="rentv" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11",Рен ТВ
+#EXTINF:-1,1+1 International
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="2na2" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14",2x2
+http://109.200.130.124:7003/play/a005
+#EXTINF:-1,2+2
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="piatnica" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://televizor.org/img/logopit/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" channelId="26",Пятница
+http://185.29.255.187:8001/play/a00j
+#EXTINF:-1,Україна
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="sts" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12",СТС
+http://37.187.28.95:2022/ukraina/mpegts
+#EXTINF:-1,УКРАЇНА 24 HD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="super" tvg-logo="https://www.oreol.tv/img/034_subbota.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/cb36e3898d166109163cbc3de2ae954c.png" channelId="3876" shift="2",Суббота
+http://185.29.255.187:8001/play/a01x
+#EXTINF:-1,Уніан
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8",ТВ3
+http://185.29.255.187:8001/play/a018
+#EXTINF:-1,ТЕТ HD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tnt" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16",ТНТ
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tnt4" tvg-logo="http://www.oreol.tv/img/tht4.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77",ТНТ4
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="che" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/%D0%A7%D0%B5.png" channelId="22",Че
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-logo="http://epg.it999.ru/img/2743.png" logo="https://runigma.com.ua/EPG/picons/Ultra%20HD%20Cinema%204K.png" channelId="3982",Ultra HD Cinema
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/bw6000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="2na2-pl2" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" shift="+2",2x2 (+2)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="2na2-pl4" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" shift="+4",2x2 (+4)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="2na2-pl7" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" shift="+7",2x2 (+7)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="piatnica-pl2" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://televizor.org/img/logopit/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" channelId="26" shift="+2",Пятница (+2)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="piatnica-pl4" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://televizor.org/img/logopit/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" channelId="26" shift="+4",Пятница (+4)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="piatnica-pl7" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://televizor.org/img/logopit/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" channelId="26" shift="+7",Пятница (+7)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="rentv-pl2" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11" shift="+2",Рен ТВ (+2)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="rentv-pl4" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11" shift="+4",Рен ТВ (+4)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="rentv-pl7" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11" shift="+7",Рен ТВ (+7)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="sts-pl2" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" shift="+2",СТС (+2)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="sts-pl4" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" shift="+4",СТС (+4)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="sts-pl7" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" shift="+7",СТС (+7)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="super-pl2" tvg-logo="https://www.oreol.tv/img/034_subbota.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/cb36e3898d166109163cbc3de2ae954c.png" channelId="3876" shift="2",Суббота (+2)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="super-pl4" tvg-logo="https://www.oreol.tv/img/034_subbota.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/cb36e3898d166109163cbc3de2ae954c.png" channelId="3876" shift="2",Суббота (+4)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="super-pl7" tvg-logo="https://www.oreol.tv/img/034_subbota.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/cb36e3898d166109163cbc3de2ae954c.png" channelId="3876" shift="2",Суббота (+7)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" shift="+2",ТВ3 (+2)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tv3-ru-pl4" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" shift="+4",ТВ3 (+4)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tv3-ru-pl7" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" shift="+7",ТВ3 (+7)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" shift="+2",ТНТ (+2)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" shift="+4",ТНТ (+4)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tnt-pl7" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" shift="+7",ТНТ (+7)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="che-pl2" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/%D0%A7%D0%B5.png" channelId="22" shift="+2",Че (+2)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"с
-http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="che-pl4" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/%D0%A7%D0%B5.png" channelId="22" shift="+4",Че (+4)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="che-pl7" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/%D0%A7%D0%B5.png" channelId="22" shift="+7",Че (+7)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8?version=2
+http://31.43.48.248:7000/ch7/video.m3u8
+#EXTINF:-1,ТЕТ
+http://212.115.255.196/Jfd85Hf/tet.m3u8
+#EXTINF:-1,Новий канал
+http://37.187.28.95:2022/Noviy/mpegts
+#EXTINF:-1,Новий канал FHD
+http://185.29.255.187:8001/play/a006
+#EXTINF:-1,CTБ HD
+http://185.29.255.187:8001/play/a005
+#EXTINF:-1,Zoom HD
+http://185.29.255.187:8001/play/a00e
+#EXTINF:-1,ICTV
+http://37.187.28.95:2022/ictv/mpegts
+#EXTINF:-1,ICTV HD
+http://185.29.255.187:8001/play/a001
+#EXTINF:-1,Мега
+http://185.29.255.187:8001/play/a00b
+#EXTINF:-1,Enter-Фільм HD
+http://185.29.255.187:8001/play/a007
+#EXTINF:-1,Sonce
+http://185.29.255.187:8001/play/a01s
+#EXTINF:-1,Оце HD
+http://185.29.255.187:8001/play/a004
+#EXTINF:-1,1+1 HD
+http://37.187.28.95:2022/1plus1/mpegts
+#EXTINF:-1,Україна
+http://37.187.28.95:2022/ukraina/mpegts
+#EXTINF:-1,Новий канал
+http://37.187.28.95:2022/Noviy/mpegts
+#EXTINF:-1,TIM HD
+http://194.242.100.24:6666
+#EXTINF:-1,ICTV
+http://37.187.28.95:2022/ictv/mpegts
+#EXTINF:-1,1+1
+http://152.70.49.253:8080/channel/1d6aa9b5/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
+#EXTINF:-1,2+2
+http://152.70.49.253:8080/channel/1d6aad77/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
+#EXTINF:-1,ICTV
+http://152.70.49.253:8080/channel/n700a2b82/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
+#EXTINF:-1,ТЕТ
+http://152.70.49.253:8080/channel/1d79f2ad/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
+#EXTINF:-1,ИНТЕР
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,ИНТЕР
+http://lb1.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1,ИНТЕР
+http://lb1.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,33 КАНАЛ
+http://33tvv.ml/33chanel/live/index.m3u8
+#EXTINF:-1,Киев ТВ
+https://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv2.sdp/playlist.m3u8
+#EXTINF:-1,Снятин ТВ HD
+http://93.170.188.5:3742/index.m3u8
+#EXTINF:-1,UA:Перший HD
+http://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1,Пульсар
+http://78.154.164.191:19350/Live/forever.m3u8
+#EXTINF:-1,Сфера
+https://cdn10.live-tv.od.ua:8083/sferarv/sferarv-abr/sferarv/480p/chunks.m3u8
+#EXTINF:-1,Skrypin UA
+https://open-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1,ТРК ЮГ ТВ
+https://video.onet.zp.ua/TV_UG/tracks-v1a1/index.m3u8
+#EXTINF:-1,UA TV
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,I-UA TV
+https://kie2.cdn.i-ua.tv/hlsme/iuatv_720p.m3u8
+#EXTINF:-1,I-UA TV HD
+http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
+#EXTINF:-1,Киев ТВ
+https://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv2.sdp/playlist.m3u8
+#EXTINF:-1,Киев ТВ HD
+http://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1,CTБ/ТВ Бердянськ
+https://video.onet.zp.ua/TV_Berdyansk/index.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,HTH
+http://lb1.macc.com.ua/img/ntn_2/index.m3u8
+#EXTINF:-1,BTB+
+http://video.vtvplus.com.ua:81/hls/online/index.m3u8
+#EXTINF:-1,Первый независимый
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,Первый независимый+
+https://live.pnk.tv/hls/pnk/hd.m3u8
+#EXTINF:-1,TIM HD
+http://194.242.100.24:6666
+#EXTINF:-1,Дніпро TV HD
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1,Сміла
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1,TV 7+
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1,Інший
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1,A1 HD
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1,Сварожичі ТВ HD
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1,ОТВ
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-1,iPT
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1,ІТ3 ТВ
+http://cdn10.live-tv.od.ua:8081/it3od/720p/chunks.m3u8
+#EXTINF:-1,M Studio
+http://213.174.23.59:8080/MS
+#EXTINF:-1,ГІТ (Волинь)
+http://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1,ЯТБ
+http://46.175.163.130/live_yatb/playlist.m3u8
+#EXTINF:-1,МТВ
+https://live.mariupolskoe.tv:1935/site/MTV_HD.stream_site_720x405/playlist.m3u8
+#EXTINF:-1,Мариупольское ТВ
+https://live.mariupolskoe.tv:1935/site/MTV_HD.stream/playlist.m3u8
+#EXTINF:-1,Полтавське ТВ
+http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
+#EXTINF:-1,TVA
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,Simon
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1,Z TV
+http://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1,Третій Цифровий
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
+#EXTINF:-1,Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1,Твій плюс
+https://webcams.ks.ua/hls/tviyplus.m3u8
+#EXTINF:-1,Тернопіль 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1,НТА HD (Львів)
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1,RAI
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1,Снятин ТВ HD
+http://93.170.188.5:3742/index.m3u8
+#EXTINF:-1,Крату ТВ
+http://cdn10.live-tv.od.ua:8081/kratu/kratu/playlist.m3u8
+#EXTINF:-1,Сварожичі ТВ HD
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1,ОТВ
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-1,iPT
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1,іTV
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1,ІТ3 ТВ
+http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr-lq/playlist.m3u8
+#EXTINF:-1,МТВ
+https://live.mariupolskoe.tv:1935/site/MTV_HD.stream_site_720x405/playlist.m3u8
+#EXTINF:-1,TVA
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,Simon
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1,Izmail
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1,Твій плюс
+https://webcams.ks.ua/hls/tviyplus.m3u8
+#EXTINF:-1,TV5 (Запоріжжя)
+https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+#EXTINF:-1,RAI
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1,ТРК ЮГ ТВ
+https://video.onet.zp.ua/TV_UG/tracks-v1a1/index.m3u8
+#EXTINF:-1,Інший
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1,ЧП.INFO
+http://lb1.macc.com.ua/life/magnolia_3/index.m3u8
+#EXTINF:-1,24 канал HD
+http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
+#EXTINF:-1,НТК
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1,Bambarbia TV HD
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,TV 5
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1,UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,Донбас Online HD
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:-1,Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1,Прямый
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,Рудана FHD
+https://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:-1,Обоз ТВ
+https://player.obozrevatel.com/live1/stream.m3u8
+#EXTINF:-1,Объектив 59
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1,Первый Городской (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1,Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,Правда ТУТ HD
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,Чернівецький Промінь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1,34 Канал
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1,ТIС (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
+#EXTINF:-1,Балта ТВ
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1,ВТВ-Плюс
+#EXTVLCOPT:network-caching=1000
+http://iptv.rubintele.com:8552/play/a007
+#EXTINF:-1,112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,Первый Городской HD (Кривий Ріг)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1,Первый Городской HD (Одеса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1,Сміла ТВ (Чернігів) HD
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1,Z (Запоріжжя) HD
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1,TV5 (Запоріжжя)
+https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+#EXTINF:-1,Прайм
+http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
+#EXTINF:-1,Гіт [Волинь]
+http://stream.uagit.tv/gittv.m3u8?
+#EXTINF:-1,Renome
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1,Plus
+http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
+#EXTINF:-1,Kratu
+http://cdn10.live-tv.od.ua:8081/kratu/kratu/playlist.m3u8
+#EXTINF:-1,CK 1 HD
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1,Думская ТВ HD
+http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1,Інший HD
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1,A1 HD
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1,Odessa Fashion HD
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+#EXTINF:-1,Репортер (Одеса)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1,Третій цифровий (Одеса)
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1,G TV(Одеса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1,TIC HD
+http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
+#EXTINF:-1,Южная Волна HD
+http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
+#EXTINF:-1,7 Канал HD (Одеса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1,Одеса Int.
+http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
+#EXTINF:-1,ТРК Круг
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:-1,M Studio
+http://213.174.23.59:8080/MS
+#EXTINF:-1,ЯТБ
+http://46.175.163.130/live_yatb/playlist.m3u8
+#EXTINF:-1,TV 7+
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1,Тернопіль 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1,НТА HD (Львів)
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1,Сварожичі HD
+http://80.91.177.102:1935/live/live1/playlist.m3u8
