@@ -20,5 +20,5 @@ http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
 #EXTINF:-1,UA Перший
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
