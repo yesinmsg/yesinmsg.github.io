@@ -1,13 +1,24 @@
 #EXTINF:-1 ,А1
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1 ,7 канал
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/playlist.m3u8
 #EXTINF:-1,TV-5 Zaporozhye
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+#EXTINF:-1,ТРК Алекс
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://46.46.112.223/live/livestream1.m3u8
 #EXTINF:-1,ZTV
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1,Прямой
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
-
+#EXTINF:-1,1+1
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live
+#EXTINF:-1,UkrLive
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCeOlmFkSt4KFVkivMe7uEvw/live
