@@ -7,15 +7,7 @@ http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
 #EXTINF:-1,ZTV
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1,112 Украина
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
-#EXTINF:-1,UA TV
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,Прямой
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
-#EXTINF:-1,Skrypin UA
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-https://open-cdn.lanet.tv/live/1008.m3u8
 
