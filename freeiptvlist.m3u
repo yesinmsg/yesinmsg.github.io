@@ -43,3 +43,9 @@ http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4616/stream.m3u8
 #EXTINF:-1,Paramount Comedy UA
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3910/stream.m3u8
+#EXTINF:-1,AMC UA
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4248/stream.m3u8
+#EXTINF:-1,Hollywood FHD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/262/stream.m3u8
