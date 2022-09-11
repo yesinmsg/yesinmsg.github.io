@@ -16,3 +16,36 @@ https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1,Прямой
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+#EXTINF:-1,FOX
+#EXTGRP:Фильмы
+http://193.160.224.14:42052/fox.m3u8
+#EXTINF:-1,FilmBox Baltic
+#EXTGRP:Фильмы
+http://193.160.224.14:42053/filmbox_baltic.m3u8
+#EXTINF:-1,Filmbox ArtHouse
+#EXTGRP:Фильмы
+http://193.160.224.14:42054/filmbox_arthouse.m3u8
+#EXTINF:-1,Hollywood
+#EXTGRP:Фильмы
+http://193.160.224.14:42055/hollywood.m3u8
+#EXTINF:-1,Hollywood HD
+#EXTGRP:Фильмы
+http://193.160.224.14:42056/hollywoodhd.m3u8
+#EXTINF:-1,ParamountChannel
+#EXTGRP:Фильмы
+http://193.160.224.14:42058/paramount_channel.m3u8
+#EXTINF:-1,TV XXI
+#EXTGRP:Фильмы
+http://193.160.224.14:42059/tv_xxi.m3u8
+#EXTINF:-1,Viasat Comedy
+#EXTGRP:Фильмы
+http://193.160.224.14:42060/viasat_comedy.m3u8
+#EXTINF:-1,Viasat TV1000
+#EXTGRP:Фильмы
+http://193.160.224.14:42061/viasat_tv1000.m3u8
+#EXTINF:-1,Viasat TV1000 Action
+#EXTGRP:Фильмы
+http://193.160.224.14:42062/viasat_tv1000_action.m3u8
+#EXTINF:-1,Viasat TV1000 World
+#EXTGRP:Фильмы
+http://193.160.224.14:42063/viasat_tv1000_world.m3u8
