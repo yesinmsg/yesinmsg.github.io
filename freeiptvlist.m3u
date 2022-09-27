@@ -16,15 +16,9 @@ https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1,Прямой
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
-#EXTINF:-1,Cinema
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1,Amedia 1
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s45/04.m3u8
 #EXTINF:-1,Amedia 2
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s33/04.m3u8
-#EXTINF:-1,HBO
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s64/04.m3u8
