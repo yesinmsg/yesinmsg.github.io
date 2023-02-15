@@ -4,12 +4,6 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 #EXTINF:-1 ,Правда ТУТ HD (Киев)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 ,Алекс
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://46.46.112.223/live/livestream1.m3u8
-#EXTINF:-1 ,I-UA TV HD
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
 #EXTINF:-1 ,OBOZ TV tva.org.ua
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://player.obozrevatel.com/live2/stream.m3u8?cur=tva.org.ua&key=3i277
