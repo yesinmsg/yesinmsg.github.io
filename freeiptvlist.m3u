@@ -10,33 +10,12 @@ http://player.obozrevatel.com/live2/stream.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1 ,Перший HD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1,1+1 HD
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://91.146.94.234:10001/play/a04i
-#EXTINF:-1 ,2+2
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://91.146.94.234:10001/play/a04r
 #EXTINF:-1 ,ICTV
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,ICTV р
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://91.146.94.234:10001/play/a04k
-#EXTINF:-1 ,СТБ
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://91.146.94.234:10001/play/a04l
-#EXTINF:-1 ,Новий канал HD
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://195.189.60.181:312/5/index.m3u8
-#EXTINF:-1 ,Новий канал
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://91.146.94.234:10001/play/a04o
 #EXTINF:-1 ,Інтер
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://portal.ott.pink/watch/7316/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1,ТЕТ 
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://91.146.94.234:10001/play/a04p
 #EXTINF:-1,Медицинские сериалы HD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://195.189.60.181:312/900/index.m3u8
@@ -76,12 +55,6 @@ https://edge02.smart.az/o5/tv1000/playlist.m3u8
 #EXTINF:-1 ,FOX HD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://195.189.60.181:312/525/index.m3u8
-#EXTINF:-1 ,FOX Life HD
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://195.189.60.181:312/528/index.m3u8
-#EXTINF:-1 ,Еврокино
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://91.220.135.165:81/30/index.m3u8
 #EXTINF:-1 ,Hollywood 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://37.17.14.149:8903/play/a009
@@ -94,9 +67,6 @@ http://50.7.222.58:80/Hollywood_HD/index.m3u8
 #EXTINF:-1 ,FAN
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://50.7.222.58:80/FAN/index.m3u8
-#EXTINF:-1 ,Filmbox
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-rtmp://188.93.94.42//filmbox
 #EXTINF:-1 ,Filmbox hd
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://94.230.240.17:8080/film_box/index.m3u8
