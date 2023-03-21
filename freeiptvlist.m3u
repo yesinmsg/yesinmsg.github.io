@@ -1,11 +1,12 @@
 #EXTINF:-1 ,24 Канал
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-#EXTINF:-1 ,Правда ТУТ HD (Киев)
+#EXTINF:-1 group-title="УКРАИНА",TV Запорожье
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-
-
+http://stream.ztv.zp.ua/hls/live.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 group-title="УКРАИНА",InRating TV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 #EXTINF:-1 group-title="KINO+",Viju+ TV1000 Action
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://176.222.190.76/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
