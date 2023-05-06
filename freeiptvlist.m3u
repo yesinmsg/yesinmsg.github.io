@@ -10,9 +10,6 @@ https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 #EXTINF:-1 group-title="KINO+",Viju+ TV1000 Action
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://176.222.190.76/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
-#EXTINF:-1 group-title="KINO+",VIASAT KINO hg (Tv 1000)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://89.254.128.5:22280/tv1000/video.m3u8
 #EXTINF:-1 group-title="KINO+",Viju+ TV1000
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://176.222.190.76/btv/SWM/tv1000hd/tv1000hd.m3u8
