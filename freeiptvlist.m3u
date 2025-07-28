@@ -5,7 +5,7 @@
     https://stream.ztv.zp.ua/hls/live.m3u8
     #EXTINF:-1 tvg-id="id2" tvg-name="ICTV Serialy" tvg-chno='2" ,ICTV Serialy
     http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
-    #EXTINF:-1 tvg-id="id3" tvg-name="ICTV2" tvg-chno='3" ,ICTV2
+    #EXTINF:-1 tvg-id="id5" tvg-name="ICTV2" tvg-chno='5" ,ICTV2
     http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
     #EXTINF:-1 tvg-id="id4" tvg-name="Pershyi" tvg-chno='4" ,Pershyi
     https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
