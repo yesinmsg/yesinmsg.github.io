@@ -5,3 +5,8 @@ https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 tvg-id="pravdatyt" tvg-name="ПравдаТУТ" tvg-language="Ukrainian" tvg-logo="https://pravdatut.ua/img/logo.png" group-title="",ПравдаТУТ
 http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="freedom" tvg-name="FREEDOM" tvg-language="Ukrainian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png" group-title="",FREEDOM
+http://95.67.106.242/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 tvg-id="24kanal" tvg-name="24kanal" tvg-language="Ukrainian" tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" group-title="",24kanal
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+
